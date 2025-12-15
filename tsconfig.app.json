@@ -21,6 +21,8 @@
     "noImplicitAny": false,
     "noFallthroughCasesInSwitch": false,
 
+    /* Base URL */
+    "baseUrl": "/weeks",
     "paths": {
       "@/*": ["./src/*"]
     }
