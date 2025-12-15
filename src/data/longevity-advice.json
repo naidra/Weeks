@@ -1,0 +1,50 @@
+[
+  {
+    "advice": "Prioritize quality sleep of 7-9 hours nightly. Sleep is when your body repairs and regenerates.",
+    "url": "https://newsinhealth.nih.gov/2021/04/good-sleep-good-health"
+  },
+  {
+    "advice": "Practice intermittent fasting. Time-restricted eating activates cellular repair processes.",
+    "url": "https://www.nejm.org/doi/full/10.1056/NEJMra1905136"
+  },
+  {
+    "advice": "Move your body daily. Even a 30-minute walk significantly reduces mortality risk.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+  },
+  {
+    "advice": "Cultivate deep social connections. Strong relationships are one of the strongest predictors of longevity.",
+    "url": "https://www.health.harvard.edu/healthbeat/strengthen-relationships-for-longer-healthier-life"
+  },
+  {
+    "advice": "Eat more plants. A diet rich in vegetables, fruits, and whole grains reduces chronic disease risk.",
+    "url": "https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/vegetables-and-fruits/"
+  },
+  {
+    "advice": "Practice stress management through meditation or breathwork. Chronic stress accelerates aging.",
+    "url": "https://www.apa.org/topics/stress/health"
+  },
+  {
+    "advice": "Stay mentally active. Continuous learning and mental challenges build cognitive reserve.",
+    "url": "https://www.nia.nih.gov/health/cognitive-health-and-older-adults"
+  },
+  {
+    "advice": "Limit alcohol consumption. Even moderate drinking has been linked to health risks.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/alcohol"
+  },
+  {
+    "advice": "Get regular sun exposure for vitamin D, but protect your skin from excessive UV damage.",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3897598/"
+  },
+  {
+    "advice": "Find purpose in life. Having meaning and goals is associated with longer lifespan.",
+    "url": "https://www.health.harvard.edu/mind-and-mood/10-ways-to-find-purpose-in-life"
+  },
+  {
+    "advice": "Practice gratitude daily. Positive emotions contribute to better cardiovascular health.",
+    "url": "https://www.health.harvard.edu/blog/gratitude-enhances-health-brings-happiness-and-may-even-lengthen-lives-202409113071"
+  },
+  {
+    "advice": "Stay hydrated. Proper hydration supports every cellular function in your body.",
+    "url": "https://www.hsph.harvard.edu/news/hsph-in-the-news/the-importance-of-hydration/"
+  }
+]
